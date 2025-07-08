@@ -1,9 +1,44 @@
-# Discord  jamesatomc
+# Jamestomc
 
-# 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Move](https://img.shields.io/badge/Move-%232C2052.svg?style=for-the-badge&logo=move&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<!-- Enhanced badge section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Software%20Engineer-5c068c?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="AI & Software Engineer"/>
+  <img src="https://img.shields.io/badge/Discord-jamesatomc-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: jamesatomc"/>
+</p>
 
-# 📊 GitHub Stats:
+---
+
+## About Me
+
+I'm a software engineer passionate about **blockchain**, **AI**, **mobile development**, and **cloud technologies**. I love building **innovative solutions** and turning ideas into **impactful tools**.
+
+---
+
+## Main Interests
+![Blockchain](https://img.shields.io/badge/Blockchain-004d4d?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-006666?style=for-the-badge)
+![Mobile Development](https://img.shields.io/badge/Mobile_Development-008080?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-009999?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-66E6DD?style=for-the-badge&labelColor=000000)
+![UI/UX](https://img.shields.io/badge/UI/UX-8CF0EB?style=for-the-badge&labelColor=000000)
+
+## Technical Stack
+
+| 💻 **Category**           | 🔧 **Technologies**                                                                                                      |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **Main Programming Languages** | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Move](https://img.shields.io/badge/move-7c3aed?style=for-the-badge&logo=move&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) |
+| **Mobile Development**    | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) |
+| **Blockchain**            | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Move](https://img.shields.io/badge/move-7c3aed?style=for-the-badge&logo=move&logoColor=white) |
+| **Cloud & DevOps**        | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Frontend & UI**         | ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) |
+| **Design & Prototyping**  | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| **Version Control**       | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| **Other Tools**           | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) |
+
+---
+
+## GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=jamesatomc&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jamesatomc&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesatomc&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -14,35 +49,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jamesatomc&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Technical Skills
+---
 
-### Programming Languages & Frameworks
-- **Mobile Development**
-  - Kotlin with Jetpack Compose
-  - Flutter (Cross-platform mobile development)
-  - Advanced UI/UX implementation
+<!-- ## Contact
 
-- **Systems & Blockchain Programming**
-  - Rust (Systems programming & smart contract development)
-  - Golang (Backend development)
-  - Move Language (Blockchain-specific programming)
-  - Blockchain architecture & development
+*Currently focusing on indie projects. If you have any suggestion, feel free to contact me through email.*
 
-### DevOps & Cloud Technologies
-- **Cloud Infrastructure**
-  - Oracle Cloud
-  - Docker containerization
-  - Linux system administration
-  - CI/CD pipeline implementation
-
-### Development Tools
-- **Version Control & Collaboration**
-  - Git (Advanced workflow management)
-  - GitHub/GitLab best practices
-
-### Design & Prototyping
-- **UI/UX Design**
-  - Figma (Professional design & prototyping)
-  - Responsive design principles
-  - Design system creation
+[jamesatomc@gmail.com](mailto:jamesatomc@gmail.com) -->
